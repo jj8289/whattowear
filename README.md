@@ -1,1 +1,3 @@
-# whattowear
+# WTW(whattowear) 
+
+# today, tomorrow
